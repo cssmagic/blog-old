@@ -2,7 +2,7 @@
 
 ## 简介
 
-本项目汇总了 [@CSS魔法](http://weibo.com/cssmagic) 在 2010 年及以前创作的博客文章。这些博客文章最初均通过 [独立博客系统](http://www.cssmagic.net/blog/default.asp)（基于 ASP 的 PJBlog3）发布，但该系统已于 2016 年 2 月废弃，于是所有文章迁入本项目存档。
+本项目汇总了 [@CSS魔法](http://weibo.com/cssmagic) 在 2010 年及以前创作的博客文章。这些博客文章最初均通过一套独立博客系统（基于 ASP 的 PJBlog3）发布，但该系统已于 2016 年 2 月废弃，于是所有文章迁入本项目存档。
 
 本项目已经不再更新，新文章将在 [新博客项目](https://github.com/cssmagic/blog) 和 “CSS魔法” 微信公众号发布。
 
