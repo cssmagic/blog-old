@@ -36,9 +36,9 @@
 
 ***
 
-## 目录
+### 文章目录
 
-序号 | 标题 | 浏览量 | 留言量
+序号 | 文章标题 | 原浏览量 | 留言数
 ---:|---|---:|---:
 35 | [一个让我掉到坑里的问题：null==0 吗？](https://github.com/cssmagic/blog-old/issues/35) | 413 | 0
 34 | [为 Steve Krug 新书翻译书名](https://github.com/cssmagic/blog-old/issues/34) | 242 | 0
